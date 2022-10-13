@@ -8,3 +8,4 @@
 - Ustalenie pojęć: organizacja, otoczenie organizacji, interesariusze organizacji, dziedzina problemowa, interesariusze dziedziny problemowej, pracownicy biznesowi. 
 - Plik z wykonanym zadaniem nazwać Zad_1_NazwaZespołu. 
 - Dodać do repozytorium.
+- termin oddania: 19.10.2022 do 24:00
