@@ -1,11 +1,13 @@
 # Inżynieria Oprogramowania
-## Zadanie 1
-
-- README projektu: Temat projektu, wypisać członków zespołu
 
 
-- Opis "biznesowy sytuacji w temacie" - np. 1 dzień z życia firmy (całościowe przedstawienie działalności) na 1,5 - 2 strony
-- Ustalenie pojęć: organizacja, otoczenie organizacji, interesariusze organizacji, dziedzina problemowa, interesariusze dziedziny problemowej, pracownicy biznesowi. 
-- Plik z wykonanym zadaniem nazwać Zad_1_NazwaZespołu. 
+## Zadanie 2
+- ustalić zakres organizacji, dziedziny problemowej
+- ustalić aktorów biznesowych i pracowników biznesowych,
+- utworzyć biznesowy DPU,
+- utworzyć scenariusze biznesowe – do jednego z nich wykorzystać podejście „specyfikacja przez przykład”.
+
+
+- Plik z wykonanym zadaniem nazwać Zad_2_NazwaZespołu. 
 - Dodać do repozytorium.
-- **termin oddania: 19.10.2022 do 24:00**
+- **termin oddania: 26.10.2022 do 23:59**
