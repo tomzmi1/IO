@@ -11,3 +11,5 @@
 - Plik z wykonanym zadaniem nazwać Zad_2_NazwaZespołu. 
 - Dodać do repozytorium.
 - **termin oddania: 26.10.2022 do 23:59**
+
+https://drive.google.com/drive/folders/1DbnnIB9qq1snhuoO76KqNReT16gCYRvr?usp=sharing
