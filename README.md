@@ -1,7 +1,10 @@
 # Inżynieria Oprogramowania
 
 ## [Pliki do zajęć 7](https://drive.google.com/drive/folders/1NU1jB9fJjjonBuNynJRLHZijLDz5LqX0?usp=share_link)
-
+- Lista funkcji 
+- Diagram FHD
+- Grupy użytkowników i ich charakterystyka (np w formie tabelki, typowe zadania, scenariusze do tych zadań)
+- Ustalić wymagania względem interfejsu oraz kryteria oceny
 
 ## [Pliki do zajęć 6](https://drive.google.com/drive/folders/14UEDpeBJ8UoVwSHe9sRNPjkx5e2vIJEX?usp=sharing)
 ### Zadanie po zajęciach 6:
