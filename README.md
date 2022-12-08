@@ -1,5 +1,20 @@
 # Inżynieria Oprogramowania
 
+## Etap 2 - koniec
+
+#### [Wymagania techniczne](https://drive.google.com/file/d/1P1mtD4Ajjne-KhvVgurPI9I9cgG8r3XU/view?usp=share_link)
+
+
+#### [Punkty do realizacji](https://drive.google.com/file/d/1ITasSV9l2TTseBSnl7-F7-w8P7DydLGD/view?usp=share_link)
+
+
+- Plik z wykonanym zadaniem nazwać **Spr_Etap_2_NazwaZespołu**. 
+- Zapisać jako pdf oraz jako plik z możliwością edycji
+- Dodać do repozytorium.
+- **Termin oddania: 15.12.2022 do godziny rozpoczęcia zajęć**
+- Każdy rozpoczęty dzień spóźnienia = -0,5pkt
+
+
 ## Zadanie zajęcia 10
 - Schemat relacyjnej bazdy danych
 
