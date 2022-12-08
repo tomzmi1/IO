@@ -1,5 +1,8 @@
 # Inżynieria Oprogramowania
 
+## Zadanie zajęcia 9
+- Schemat relacyjnej bazdy danych
+
 ## [Pliki do zajęć 9](https://drive.google.com/drive/folders/1tZwLWGgnuJ6PgsQzgk0wujuKcmaKjqlm?usp=share_link)
 
 
