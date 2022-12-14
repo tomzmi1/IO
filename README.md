@@ -8,6 +8,7 @@
 #### [Punkty do realizacji](https://drive.google.com/file/d/1ITasSV9l2TTseBSnl7-F7-w8P7DydLGD/view?usp=share_link)
 
 
+- SPRAWOZDANIE MA ZAWIERAĆ ETAP I i II - jeden plik.
 - Plik z wykonanym zadaniem nazwać **Spr_Etap_2_NazwaZespołu**. 
 - Zapisać jako pdf oraz jako plik z możliwością edycji
 - Dodać do repozytorium.
