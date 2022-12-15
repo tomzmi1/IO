@@ -1,6 +1,9 @@
 # Inżynieria Oprogramowania
 
 ## [Pliki do zajęć 11](https://drive.google.com/drive/folders/1C2SduTTlKkP3LhgkeYTE-NFtrLFjkZRo?usp=share_link)
+- diagram komponentów
+- diagram rozlokowania
+- inspekcja fagana
 
 
 ## Etap 2 - koniec
