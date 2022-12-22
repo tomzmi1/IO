@@ -4,6 +4,17 @@
 
 ## [Pliki do zajęć 12](https://drive.google.com/drive/folders/1f7zJcgSDCtnXHF8JgutiCxn_XUOmmfI7?usp=share_link)
 
+#### [Dokumentacja aplikacji](https://drive.google.com/drive/folders/1wISX9PwCKHi7URvNtHLtrjD4UeS_5-e-?usp=share_link)
+
+### Terminy:
+- Oddanie dokumentacji aplikacji: 17 stycznia 
+- Zaliczenie I termin: 19 stycznia 
+- Zaliczenie końcowe: 26 stycznia 
+
+### Uwaga do zajęć 11 
+- Inspekcja fagana w oddzielnym dokumencie
+- Etap I, II + diagramy wrożeniowe w jednym dokumencie (ostatecznie do 29.12)
+
 ## [Pliki do zajęć 11](https://drive.google.com/drive/folders/1C2SduTTlKkP3LhgkeYTE-NFtrLFjkZRo?usp=share_link)
 - diagram komponentów
 - diagram rozlokowania
