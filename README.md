@@ -1,5 +1,9 @@
 # Inżynieria Oprogramowania
 
+
+
+## [Pliki do zajęć 12](https://drive.google.com/drive/folders/1f7zJcgSDCtnXHF8JgutiCxn_XUOmmfI7?usp=share_link)
+
 ## [Pliki do zajęć 11](https://drive.google.com/drive/folders/1C2SduTTlKkP3LhgkeYTE-NFtrLFjkZRo?usp=share_link)
 - diagram komponentów
 - diagram rozlokowania
